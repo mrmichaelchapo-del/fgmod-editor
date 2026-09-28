@@ -1,6 +1,7 @@
 # fgmod-editor: The FGMod Editor Monorepo
 
 scratch-editor used to be used by [Scratch](https://scratch.org) now modified by [FGMod](https://fgmod.net)
+
 If you'd like to use Scratch, please visit the [Scratch website](https://scratch.mit.edu/). You can build your own
 Scratch project by pressing "Create" on that website or by visiting <https://scratch.mit.edu/projects/editor/>.
 
